@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("helo git!dfsafdsa");
 
         System.out.println("hello git4!");
-        System.out.println("hello?!12");
+        System.out.println("push?!12");
     }
 }
